@@ -1,5 +1,0 @@
-package com.ordem.deservico.domain.repository;
-
-public interface ClienteRepository {
-
-}
