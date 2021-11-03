@@ -15,6 +15,7 @@ public class Cliente {
 	private Long id;
 	
 	@Column(name="nome")
+
 	private String nome;
 	
 	@Column(name="email")
