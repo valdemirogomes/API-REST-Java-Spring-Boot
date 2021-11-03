@@ -1,0 +1,5 @@
+package com.ordem.deservico.domain.model;
+
+public class Cliente {
+
+}
